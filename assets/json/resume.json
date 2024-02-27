@@ -21,11 +21,23 @@
       "location": "Berlin, Germany",
       "position": "Senior Software Engineer",
       "url": "www.mbition.io",
-      "startDate": "2021",
+      "startDate": "Nov '21",
       "endDate": "Now",
-      "summary": "",
-      "highlights": [
-        ""
+      "summary": [
+        "Practicing domain expert knowledge of software development in automotive infotainment. ",
+        "Developing technologies in modern C++ with automated testing suite hooked on to the state of the art CI-CD platforms. "
+      ]
+    },
+    {
+      "name": "Dyson Technologies",
+      "location": "Bristol, UK",
+      "position": "Senior Software Engineer",
+      "url": "www.dyson.com",
+      "startDate": "Nov '19",
+      "endDate": "Nov '21",
+      "summary": [
+        "Responsible for software development of multiple smart consumer electronics products. ",
+        "Established on-off target testing platform which connected the business logic in human language to the software code. "
       ]
     }
   ],
@@ -40,15 +52,15 @@
       "endDate": "2016",
       "courses": [
         "Eletronics",
-        "Computer science"
+        "Computer science",
+        "Product development labs",
+        "Automotive Engineering"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "",
       "keywords": [
         "C++ 14/17/20",
         "Software Architecture",
@@ -69,15 +81,6 @@
       "language": "German",
       "fluency": "Basic knowledge",
       "icon": ""
-    }
-  ],
-  "projects": [
-    {
-      "name": "",
-      "summary": "",
-      "highlights": [],
-      "startDate": "2022",
-      "endDate": "2023"
     }
   ]
 }
