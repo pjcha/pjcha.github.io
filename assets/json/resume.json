@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Piyush D Jadhav",
-    "label": "Software Engineer",
+    "label": "Expert Software Engineer",
     "image": "",
     "email": "piyushjadhav13@gmail.com",
     "phone": "",
     "url": "https://www.linkedin.com/in/piyushdjadhav/",
-    "summary": "",
+    "summary": "Senior Software Engineer at MBition (Mercedes-Benz Group) building the next generation of the \"Hey Mercedes\" in-cabin virtual assistant, at the intersection of embedded systems and highly optimized edge-AI models. Design Engineering background from IIT Madras combined with hands-on depth in modern C++, software architecture, and embedded Linux across Mercedes-Benz and Dyson. Currently developing and deploying Agentic AI systems — moving beyond command-response models toward proactive, intelligent agents that anticipate user needs.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -19,7 +19,7 @@
     {
       "name": "Mbition Gmbh",
       "location": "Berlin, Germany",
-      "position": "Senior Software Engineer",
+      "position": "Expert Software Engineer",
       "url": "www.mbition.io",
       "startDate": "Nov '21",
       "endDate": "Now",
